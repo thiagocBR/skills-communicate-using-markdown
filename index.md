@@ -28,3 +28,8 @@ greeter = Greeter("World")
 # Calling the method that uses the attribute
 print(greeter.greet())
 ```
+
+- [x] Start on Github
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
